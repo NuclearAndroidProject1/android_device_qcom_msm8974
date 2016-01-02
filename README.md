@@ -1,0 +1,1 @@
+# android_device_qcom_msm8974
